@@ -1,3 +1,5 @@
+Random random = new Random();
+int i =random.Next(0,3);
 switch(i)
 {
 case 0 :
